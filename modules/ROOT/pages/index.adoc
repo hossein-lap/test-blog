@@ -1,0 +1,5 @@
+= Lua Programming language
+
+My home directory for the `Lua` language. Here some basic syntax notes,
+examples and my scripts will live.
+

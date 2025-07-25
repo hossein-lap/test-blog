@@ -1,0 +1,13 @@
+= The Modules sctructure
+
+.Hello
+[source,perl]
+----
+local M
+
+M.test = function(a)
+    return a + a
+end
+
+return M
+----

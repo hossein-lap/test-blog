@@ -1,0 +1,24 @@
+= Lua Progrmming Language
+
+.Hello World!
+[source,perl]
+----
+#!/bin/lua
+print("Hello world!");
+----
+
+[NOTE]
+====
+`require()` is to use _modules_ (import) in Lua.
+====
+
+== Basic Syntax
+
+****
+Basic *Lua syntax* to get started with Perl language quickly including
+variables, expressions, statements, block, comments, whitespaces, and keywords.
+****
+
+.Tables everywhere
+
+In Lua, everything is built-upon one simple data-structure: _tables_

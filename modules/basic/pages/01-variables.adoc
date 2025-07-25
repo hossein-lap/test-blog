@@ -1,0 +1,16 @@
+= Lua Programming Language
+
+The Basic Syntax
+
+== Basic Syntax
+
+
+.Some values
+[source,perl]
+----
+a = 5
+local b = 12
+local cap = "this is a captivating variable"
+----
+
+
